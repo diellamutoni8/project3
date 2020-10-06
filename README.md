@@ -23,7 +23,7 @@
 
    1.open your github account. 
    
-   2.follow this link https://github.com/diellamutoni8/portfolio.git to go to the project.
+   2.follow this link https://github.com/diellamutoni8/project3.git to go to the project.
    
    3.click on the the green button and copy the link given.
    
@@ -31,7 +31,7 @@
    
    5.enter this command: git init , to initialize the git repository. 
    
-   6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/portfolio.git
+   6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/project3.git
    
 # 5. See the project online
 https://diellamutoni8.github.io/project3/
