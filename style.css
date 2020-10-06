@@ -1,0 +1,98 @@
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 99vh;
+    background-image: url("background/h_img.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}header p{
+    font-size: small;
+}
+
+#title{
+    padding: 200px;
+}
+#mouse-click {
+    position: absolute;
+    bottom: 50px;
+}
+
+#services {
+    height: 60vh;
+    background: url("background/s_image.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+
+#services p {
+    line-height: 2.3em;
+}
+#what-we-do {
+    height: 100%;
+}
+#contact {
+    background-image: url("background/c_image.jpg");
+}
+#contact .form-control {
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 0;
+    color: white;
+}
+#contact .form-control::placeholder {
+    color: white;
+}
+
+#design-desc {
+    display: none;
+}
+#design-desc:hover {
+    cursor: pointer;
+}
+#design-img:hover {
+    cursor: pointer;
+}
+#development-desc:hover {
+    cursor: pointer;;
+}
+#development-desc {
+    display: none;
+}
+#development-img:hover {
+    cursor: pointer;
+}
+#product-desc{
+    display: none;
+}
+
+#product-descr:hover {
+    cursor: pointer;
+}
+#product-management:hover {
+    cursor: pointer;
+}
+
+
+
+
+.porto-title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    display: none;
+}
+.porto-title-show {
+    display: block;
+}
+.porto-section {
+    padding: 5px;
+    box-shadow: 2px 2px 3px ;
+}
