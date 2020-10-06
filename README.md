@@ -1,7 +1,7 @@
 # project3
 
 
-#DELANI STUDIO
+# DELANI STUDIO
 
  # 1. Authors
  
