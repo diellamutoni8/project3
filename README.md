@@ -34,8 +34,7 @@
    6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/portfolio.git
    
 # 5. See the project online
-
-https://diellamutoni8.github.io/portfolio/
+https://diellamutoni8.github.io/project3/
 
 # 6. License
 
